@@ -6,7 +6,6 @@ venv/
 .env
 .ipynb_checkpoints/
 data/images/
-data/products_clean.jsonl
 data/preprocess_metadata.json
 data/boilerplate_sentences.json
 data/catalog.json
