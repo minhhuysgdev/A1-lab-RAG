@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+data/images/
+data/products_clean.jsonl
+data/preprocess_metadata.json
+data/boilerplate_sentences.json
+data/catalog.json
+data/download_checkpoint.json
+data/index.faiss
+data/metadata.pkl
+data/product_text_vectors.npy
+.DS_Store
